@@ -1,6 +1,6 @@
 /*	Partner(s) Name & E-mail: Geoffrey Nguyen gnguy011, Eric Pham epham002
  *	Lab Section: B21
- *	Assignment: Lab #2  Exercise #1 
+ *	Assignment: Lab #2  Exercise #1
  *	Exercise Description: [optional - include for your own benefit]
  *	
  *	I acknowledge all content contained herein, excluding template or example
